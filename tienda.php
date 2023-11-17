@@ -1,6 +1,4 @@
-<?php
-include "guardar_carrito.php"
-?>
+
 
 <!DOCTYPE html>
 <html lang="es">
